@@ -3,7 +3,7 @@ export default function Projects() {
     {
       title: "Formulário de Pesquisa – SUS",
       desc: "Formulário de pesquisa responsivo desenvolvido com HTML semântico, CSS moderno e JavaScript, com foco em acessibilidade, organização visual e interação fluida com o usuário.",
-      img: "/sus-survey.png",
+      img: "sus-survey.png",
       tech: ["HTML5", "CSS3", "JavaScript", "DOM", "Regex"],
       demo: "https://joaogalimberti.github.io/survey-form-sus/",
       code: "https://github.com/joaogalimberti/survey-form-sus"
@@ -19,7 +19,7 @@ export default function Projects() {
     {
       title: "E-commerce XHR Demo",
       desc: "Demo de e-commerce simples com carregamento assíncrono de produtos, busca e UI responsiva.",
-      img: "/ecommerce.png",
+      img: "ecommerce.png",
       tech: ["JavaScript", "HTML5", "CSS3", "AJAX"],
       demo: "https://joaogalimberti.github.io/ecommerce-xhr-demo/",
       code: "https://github.com/joaogalimberti/ecommerce-xhr-demo"

@@ -36,7 +36,7 @@ export default function About() {
 
           <div className="about-image-wrapper">
             <img 
-              src="/me-art.jpg" 
+              src="me-art.jpg" 
               alt="João Galimberti" 
               className="about-image"
             />
