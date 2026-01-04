@@ -1,4 +1,5 @@
 import CountUp from "./CountUp";
+import meArt from "/me-art.jpg";
 
 export default function About() {
   const statsData = [
@@ -36,7 +37,7 @@ export default function About() {
 
           <div className="about-image-wrapper">
             <img 
-              src="me-art.jpg" 
+              src={meArt} 
               alt="João Galimberti" 
               className="about-image"
             />
